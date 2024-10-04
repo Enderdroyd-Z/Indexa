@@ -42,3 +42,6 @@ ng serve
 ```
 
 Depois, acesse [http://localhost:4200/](url) no seu navegador. 
+
+### Nota Pessoal:
+Este projeto foi desenvolvido como parte do formação Angular: crie aplicações web ágeis da Alura. Através deste projeto, desenvolvi habilidades de frontend usando Angular, TypeScript e CSS, além de aprender sobre componentes, rotas e validações.
